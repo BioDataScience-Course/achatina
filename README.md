@@ -23,8 +23,14 @@ coquille de ces animaux.
 
 # Objectif
 
-Réalisez un document de type cahier de laboratoire et réalisez l’analyse
-de données qui vous sont proposées.
+Réalisez un document de type rapport scientifique avec les différentes
+parties que comprends généralement un rapport scientifique :
+
+  - Introcduction
+  - But
+  - M\&M (sommaire)
+  - Résultats et discussion
+  - Conclusion
 
 N’hésitez pas à diviser votre analyse en 2 parties (protoconch et
-teleoconch)
+teleoconch).
