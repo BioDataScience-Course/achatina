@@ -1,5 +1,6 @@
 ---
 title: "Croissance de la coquille d'escargots géants d'Afrique"
+bibliography: "bibliography/biblio.bib"
 output: github_document
 ---
 
@@ -51,3 +52,9 @@ Réalisez un document de type rapport scientifique avec les différentes parties
 - Conclusion
 
 N'hésitez pas à diviser votre analyse en 2 parties (protoconch et teleoconch).
+
+# Note
+
+Les données de cee projet ont été employées dans le cadre de la publication de Van Osselaer et Grosjean [-@VanOsselaer2000]. 
+
+# Références {-}

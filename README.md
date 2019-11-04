@@ -34,3 +34,23 @@ parties que comprends généralement un rapport scientifique :
 
 N’hésitez pas à diviser votre analyse en 2 parties (protoconch et
 teleoconch).
+
+# Note
+
+Les données de cee projet ont été employées dans le cadre de la
+publication de Van Osselaer et Grosjean (2000).
+
+# Références
+
+<div id="refs" class="references">
+
+<div id="ref-VanOsselaer2000">
+
+Van Osselaer, Christian, and Philippe Grosjean. 2000. “Suture and
+Location of the Coiling Axis in Gastropod Shells.” *Paleobiology* 26
+(2). Paleontological Society: 238–57.
+<http://www.jstor.org/stable/2666014>.
+
+</div>
+
+</div>
